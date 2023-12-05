@@ -2,8 +2,7 @@
 
 ![Alt text](src/main/webapp/static/qclogo.png?raw=true "Title")
 
-QCharity is a Low Code Automation testing platform, you can test any Application here
-QCharity Supports , GUI - WEB, GUI- MOBILE, API and Data Base test automation
+QCharity is a Low Code Automation testing platform, you can test any Application here. It Supports , GUI - WEB, GUI- MOBILE, API and Data Base test automation
 
 #### System requirements:
 ````
